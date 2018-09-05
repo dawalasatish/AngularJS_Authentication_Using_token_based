@@ -4,7 +4,7 @@
   "description": "AngularJS Authetication with token",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lite": "lite-server"
   },
   "keywords": [
     "AngularJS",
@@ -14,5 +14,9 @@
     "based"
   ],
   "author": "satish_dawala",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "lite-server": "^2.4.0"
+  }
 }
