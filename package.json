@@ -1,0 +1,18 @@
+{
+  "name": "angularjs",
+  "version": "1.5.7",
+  "description": "AngularJS Authetication with token",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AngularJS",
+    "Authentication",
+    "with",
+    "token",
+    "based"
+  ],
+  "author": "satish_dawala",
+  "license": "ISC"
+}
